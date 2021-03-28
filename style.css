@@ -1,0 +1,32 @@
+body {
+    background: rgb(255, 243, 211);
+    margin: 40px 300px;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    font-weight: 400;
+    font-size: 72px;
+}
+
+h2 {
+    font-family: Georgia, serif;
+}
+
+.nav {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+    font-style: italic;
+    font-size: 10px;
+    text-align: center;
+}
